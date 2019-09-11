@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://duoduodownload.zzgb.net.cn:8091/duoduo0716A.ipa</string>
+					<string>http://mochatdownload.ztoken.cn:8091/mochat.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ZXJK.duoduoYoushe</string>
 				<key>bundle-version</key>
-				<string>1.9.3.1</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>多多優社</string>
+				<string>MoChat</string>
 			</dict>
 		</dict>
 	</array>
